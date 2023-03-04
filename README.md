@@ -1,1 +1,1 @@
-# tcp-scan
+# Boiler project for Go
